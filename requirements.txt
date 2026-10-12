@@ -1,0 +1,6 @@
+flask>=3.0
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+rapidfuzz>=3.6
+pytest>=8.0
